@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ListViewMultipleSelectionActivity!</string>
+    <string name="app_name">Sports Selection</string>
+    <string name="rating_activity">Ratings</string>
+    <string name="submit">Submit</string>
+ 
+    <string-array name="sports_array">
+        <item>BaseBall</item>
+        <item>Basket Ball</item>
+        <item>Foot Ball</item>
+        <item>Hockey</item>
+        <item>Ski</item>
+        <item>Sky Diving</item>        
+        <item>Shuttle Badminton</item>
+        <item>Swimming</item>
+        <item>Tennis</item>
+        <item>Table Tennis</item>       
+        <item>Volley Ball</item>       
+    </string-array>
+    
+</resources>
