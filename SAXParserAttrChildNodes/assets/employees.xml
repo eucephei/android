@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee id = "001">
+        <name>Cacao Barry</name>
+        <department>Bittersweet chocolate</department>
+        <type>cocoa powder</type>
+        <email>guittard@cacaoberry.com</email>
+        <address>
+            <line1>1 Confectioner Dr.</line1>
+            <city>Sprungli</city>
+            <state>Bernei</state>
+            <zipcode>10000</zipcode>
+        </address>
+    </employee>
+    <employee id = "002">
+        <name>Felchlin</name>
+        <department>Semisweet chocolat</department>
+        <type>cocoa bean</type>
+        <email>felchin@kakao.com</email>
+        <address>
+            <line1>2456 Lecithin Rd</line1>
+            <city>Firenze</city>
+            <state>Principe</state>
+            <zipcode>77719</zipcode>
+        </address>
+    </employee>
+    <employee id = "006">
+        <name>Scharffen Berger</name>
+        <department>Couverture</department>
+        <type>black chocolate</type>
+        <email>bc@sb.com</email>
+        <address>
+            <line1>2163 Callebaut Avenue</line1>
+            <city>Sidova</city>
+            <state>Nezia</state>
+            <zipcode>17891</zipcode>
+        </address>
+    </employee>
+</employees>

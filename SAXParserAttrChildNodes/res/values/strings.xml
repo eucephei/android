@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SAXParserActivity!</string>
+    <string name="app_name">SAXParserAttrChildNodes</string>
+    <string name="button">Parse XML using SAX</string>
+
+</resources>
