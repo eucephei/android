@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">SimpleActivity</string>
+    <string name="form">Kiwi</string>
+    <string name="display">Kiwi\'s UltraBooks</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender</string>
+    <string name="submit">Submit</string>
+    
+    <string name="image">Image</string>
+
+</resources>
