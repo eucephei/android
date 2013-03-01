@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="hello">Hello World, MyDatePickerActivity!</string>
+    <string name="app_name">DatePicker</string>
+    <string name="change_date">Change the date</string>
+    <string name="change_time">Change the time</string>
+
+</resources>
