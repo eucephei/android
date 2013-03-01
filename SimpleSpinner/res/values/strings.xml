@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">SimpleSpinner</string>
+    <string name="hello">Hello World, AutoCompleteActivity!</string>
+    <string name="country">Type in country: </string>
+    
+    <string name="planet_prompt">Choose a planet</string>
+    <string name="select">Please select a planet:</string>
+
+</resources>
