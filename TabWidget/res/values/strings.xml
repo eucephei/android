@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">TabWidget</string>
+    <string name="hello">Hello World, TabWidget!</string>
+ 
+    <string name="flip_me">FlipMe</string>
+    <string name="First">This is the first panel</string>
+    <string name="Second">This is the second panel</string>
+    <string name="Third">This is the third panel</string>
+</resources>
