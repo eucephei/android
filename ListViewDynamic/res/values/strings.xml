@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="hello">Hello World, ListViewDynamicActivity!</string>
+    <string name="app_name">ListViewDynamic</string>
+    <string name="ok_icon">OK_icon</string>
+
+</resources>
