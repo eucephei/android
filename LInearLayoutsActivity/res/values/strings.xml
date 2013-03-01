@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">LinearLayouts</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="vertical">Vertical</string>
+    <string name="left">Left</string>
+    <string name="center">Center</string>
+    <string name="right">Right</string>
+    
+    <string name="hello">Hello World, ScrollViewLayoutsActivity!</string>
+    <string name="url">URL:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="cff0000">#ff0000</string>
+    <string name="cff7f00">#ff7f00</string>
+    <string name="cffff00">#ffff00</string>
+    <string name="c00ff00">#00ff00</string>
+    <string name="c0000ff">#0000ff</string>
+    <string name="c6600ff">#6600ff</string>
+    <string name="c8b00ff">#8b00ff</string>
+
+</resources>

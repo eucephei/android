@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	
+ 
+	<TableLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:stretchColumns="0">
+		<TableRow>
+			<View
+				android:layout_height="40dp"
+				android:background="#ff0000"/>
+			<TextView android:text="@string/cff0000"
+				android:paddingLeft="4dp"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+		<TableRow>
+			<View
+				android:layout_height="40dp"
+				android:background="#ff7f00" />
+			<TextView android:text="@string/cff7f00"
+				android:paddingLeft="4dp"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+		<TableRow>
+			<View
+				android:layout_height="40dp"
+				android:background="#ffff00" />
+			<TextView android:text="@string/cffff00"
+				android:paddingLeft="4dp"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+		<TableRow>
+			<View
+				android:layout_height="40dp"
+				android:background="#00ff00" />
+			<TextView android:text="@string/c00ff00"
+				android:paddingLeft="4dp"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+		<TableRow>
+			<View
+				android:layout_height="40dp"
+				android:background="#0000ff" />
+			<TextView android:text="@string/c0000ff"
+				android:paddingLeft="4dp"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+		<TableRow>
+			<View
+				android:layout_height="40dp"
+				android:background="#6600ff" />
+			<TextView android:text="@string/c6600ff"
+				android:paddingLeft="4dp"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+		<TableRow>
+			<View
+				android:layout_height="40dp"
+				android:background="#8b00ff" />
+			<TextView android:text="@string/c8b00ff"
+				android:paddingLeft="4dp"
+				android:layout_gravity="center_vertical" />
+		</TableRow>
+	</TableLayout>
+	
+</ScrollView>
