@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  	<item android:id="@+id/stop"
+		android:title="@string/stop" 
+		android:orderInCategory="2"
+		android:icon="@drawable/eject" 
+		android:showAsAction="ifRoom|withText" />  
+		
+	<item android:id="@+id/disabled"
+		android:orderInCategory="4"
+		android:enabled="false"
+		android:title="@string/disabled"/>
+	
+    <group android:id="@+id/group_items"
+        android:menuCategory="secondary"
+		android:visible="false">
+        <item android:id="@+id/group_item1"
+              android:title="@string/group_item1" />
+        <item android:id="@+id/group_item2"
+              android:title="@string/group_item2" />
+    </group>
+    
+	<item android:id="@+id/submenu"
+		android:orderInCategory="3"
+		android:title="@string/submenu">
+		<menu>				
+			<item android:id="@+id/do_something"
+				android:title="@string/do_something"
+				android:visible="true"
+				android:alphabeticShortcut="s" />
+			<item android:id="@+id/do_nothing"
+				android:title="@string/do_nothing"
+				android:visible="true"
+				android:alphabeticShortcut="n" />
+		</menu>
+	</item>
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    
+    <string name="hello">Hello, Inflate Menu!</string>
+    <string name="app_name">ContextMenu</string>
+    <string name="footer">Long click to get context menu</string>
+
+    <string name="new_game">New Game</string>
+    <string name="quit">Quit</string>
+    <string name="stop">Stop</string>
+    <string name="dumb">Dumb</string>
+    <string name="disabled">Disabled</string>
+		<string name="group_items">Group Items</string>
+		<string name="group_item1">G item1</string>
+		<string name="group_item2">G_item2</string>
+		<string name="submenu">Sub_menu</string>
+		<string name="do_something">Do Something</string>
+		<string name="do_nothing">Do Nothing</string>
+    
+</resources>
