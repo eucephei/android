@@ -1,0 +1,8 @@
+<resources>
+
+	<string name="hello">Hello World, Rotation!</string>
+    <string name="app_name">Rotation</string>
+    <string name="view">View</string>
+    <string name="contact">Contact</string>
+
+</resources>
