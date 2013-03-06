@@ -1,0 +1,20 @@
+<resources>
+
+   <string name="app_name">PreferencesFavorites</string>
+   <string name="searchURL">"http://"</string>
+   <string name="listPrompt">Name your favorites sites</string>
+   <string name="favoritesPrompt">Enter favorite site here</string>
+   <string name="listedSearches">Search Favorites</string>
+   <string name="edit">Edit</string>
+   <string name="clearLists">Clear Lists</string>
+   <string name="save">Save</string>
+   <string name="erase">Erase</string>
+   <string name="cancel">Cancel</string>
+   <string name="OK">OK</string>
+   <string name="missingTitle">Missing Text</string>
+   <string name="missingMessage">
+      Please enter a search site and name it.</string>
+   <string name="confirmTitle">Are You Sure?</string>
+   <string name="confirmMessage">
+      This will delete all saved sites</string>
+</resources>

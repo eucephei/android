@@ -1,0 +1,4 @@
+<resources>
+	<dimen name="listButtonWidth">200dp</dimen>
+	<dimen name="editButtonWidth">50dp</dimen>
+</resources>
