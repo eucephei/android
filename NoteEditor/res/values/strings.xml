@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">NoteEditor</string>
+    <string name="empty">No New Notes…Press on Menu to Add New Note</string>
+    
+    <string name="no_notes">No Notes</string> 
+    
+    <string name="title">Title</string>
+    <string name="body_text">Body Text</string>
+    <string name="save">Save</string>
+    <string name="cut">Cut</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="back">Back</string>
+</resources>
