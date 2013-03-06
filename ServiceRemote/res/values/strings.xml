@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">ServiceRemote</string>    
+    <string name="welcome">This App shows remote service\'s starts, stops, bounds and releases</string>
+	<string name="startButton">Start</string>
+	<string name="stopButton">Stop</string>
+	<string name="bindButton">Bind</string>
+	<string name="releaseButton">Release</string>
+	<string name="invokeButton">Invoke</string>
+	<string name="serviceStatus">Service Status</string>
+	<string name="notApplicable">N/A</string>
+
+</resources>
