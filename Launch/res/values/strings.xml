@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="hello">Implicit Intent</string>
+    <string name="app_name">Launch</string>
+    <string name="contact">Contact</string>
+    <string name="show">View Contacts</string>
+
+</resources>

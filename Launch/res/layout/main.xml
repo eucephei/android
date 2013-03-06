@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<TableLayout
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:stretchColumns="1,2">
+		<TextView
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content"
+				android:paddingLeft="2dip"
+				android:paddingRight="4dip"
+				android:text="@string/contact"/>
+		<EditText android:id="@+id/firstname"
+			    android:inputType="text"
+				android:layout_width="fill_parent" 
+				android:layout_height="wrap_content"
+				android:cursorVisible="true"
+				android:singleLine="true"
+				android:layout_weight="1"/>
+		<EditText android:id="@+id/lastname"
+			    android:inputType="text"
+				android:layout_width="fill_parent" 
+				android:layout_height="wrap_content"
+				android:cursorVisible="true"
+				android:singleLine="true"
+				android:layout_weight="1"/>
+	</TableLayout>
+	<Button android:id="@+id/contacts"
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:text="@string/show"/>
+</LinearLayout>
