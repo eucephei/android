@@ -1,0 +1,10 @@
+<resources>
+
+  <string name="app_name">Preferences</string>
+  <string name="checkbox">Checkbox:</string> 
+  <string name="ringtone">Ringtone:</string> 
+  <string name="checkbox2">Checkbox #2:</string> 
+  <string name="edit_pref">Edit Preferences</string>
+  <string name="text">Text:</string>
+  <string name="list">List Selection:</string>
+</resources>

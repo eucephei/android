@@ -1,0 +1,24 @@
+<resources>
+	<string-array name="cities">
+		<item>Fresno</item>
+		<item>Santa Ana</item>
+		<item>San Jose</item>
+		<item>Long Beach</item>
+		<item>Los Angeles</item>
+		<item>Monterey</item>
+		<item>San Francisco</item>
+		<item>Santa Barbara</item>
+		<item>San Diego</item>
+	</string-array>
+	<string-array name="airport_codes">
+		<item>FYI</item>
+		<item>SNA</item>
+		<item>SJC</item>
+		<item>LGB</item>
+		<item>LAX</item>
+		<item>MRY</item>
+		<item>SFO</item>
+		<item>SBA</item>
+		<item>SAN</item>
+	</string-array>
+</resources>

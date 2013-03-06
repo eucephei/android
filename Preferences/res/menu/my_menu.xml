@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu 
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/edit_pref"
+          android:icon="@drawable/misc"
+          android:showAsAction="ifRoom|withText"
+          android:title="@string/edit_pref" />
+</menu>
