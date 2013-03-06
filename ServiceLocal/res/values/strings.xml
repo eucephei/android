@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ServiceLocal</string>
+    <string name="appintro">This App combines use of service and notificaition</string>
+    <string name="start">Start Service</string>
+	<string name="stop">Stop Service</string>
+	<string name="service_started">Service started</string>
+	<string name="service_label">Service Label</string>
+</resources>
