@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Content Provider - Planet Constants</string>
+    <string name="hello">Hello - Planet Constants</string>
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+	<string name="add_title">Add Constant</string>
+	<string name="delete_title">Delete Constant: Are You Sure?</string>
+	<string name="display">Display Name:</string>
+	<string name="value">Value:</string>
+	
+</resources>
