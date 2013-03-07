@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">ThreadHandler</string>
+    <string name="start_thread">Start Child Thread</string>
+    <string name="hello">Hello Child Thread via Handler!</string>
+	<color name="silver">#C0C0C0</color>
+
+</resources>
