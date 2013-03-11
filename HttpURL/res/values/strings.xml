@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">HttpURL</string>
+    <string name="hello">Hello, Http URL Connection!</string>
+	<string name="button">Download Text</string>
+	
+</resources>
