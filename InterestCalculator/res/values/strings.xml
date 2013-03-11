@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InterestCalculator</string>
+    <string name="hello_world">Hello world!, Compound Interest Rate</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="loan_amount">Deposit\nAmount</string>
+    <string name="rate">Interest\nRate</string>
+    <string name="ten_year">10 yr</string>
+    <string name="fifteen_year">15 yr</string>
+    <string name="thirty_year">30 yr</string>
+    <string name="five_percent">5%</string>
+    <string name="net_income">Compounded Interest\nIncome</string>
+    <string name="term">Term</string>
+    <string name="zero">0.00</string>
+    
+    
+</resources>
