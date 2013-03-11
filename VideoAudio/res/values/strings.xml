@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VideoAudio</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="local_video">Local Video</string>
+    <string name="res_video">Resources Video</string>
+    <string name="stream_video">Stream Video</string>
+ 
+</resources>
