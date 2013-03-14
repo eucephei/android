@@ -2,5 +2,7 @@
 
     <string name="hello">Hello World, SelectionListViewActivity!</string>
     <string name="app_name">SelectionListView</string>
+    
+    <string name="image_des">Menu Icon</string>
 
 </resources>
